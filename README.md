@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI SEMUANYA 👋
  <img align="right" alt="GIF" src="https://github.com/NaufalAltofianoKholis/NaufalAltofianoKholis/blob/main/code.gif?raw=true" height="400px" width="600px" />
 
 - 🏊‍♂️🏊‍♂ HOBI SAYA BERENANG
