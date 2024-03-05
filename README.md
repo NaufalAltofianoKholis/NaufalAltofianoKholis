@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/NaufalAltofianoKholis/NaufalAltofianoKholis/blob/main/code.gif" width="500" height="320" />
   
 
 Here are some ideas to get you started:
