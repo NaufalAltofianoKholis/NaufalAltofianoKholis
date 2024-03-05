@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
- ![]("https://github.com/NaufalAltofianoKholis/NaufalAltofianoKholis/blob/main/code.gif")>
-  
+
 
 Here are some ideas to get you started:
 
