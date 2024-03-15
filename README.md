@@ -6,7 +6,7 @@
 - 🌱 SAYA MASIH TERUS BELAJAR
 - 👨‍💻 SEORANG PROGRAMMER
 - 🏋️‍♂️ SUKA BEROLAHRAGA
-- ⚡ Fun fact: BELUM PUNYA PASANGAN
+- ⚡ Fun fact: BELUM PUNYA PASANGAN.
    <img align="right" alt="GIF" src="https://github.com/NaufalAltofianoKholis/NaufalAltofianoKholis/blob/main/code.gif?raw=true" height="400px" width="600px" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
